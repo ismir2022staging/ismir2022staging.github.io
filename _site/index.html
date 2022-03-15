@@ -18,6 +18,16 @@
     <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Sacramento" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet">
+    <script>
+    function myHambu() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+            x.className += " responsive";
+        } else {
+            x.className = "topnav";
+        }
+    }
+    </script>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -32,32 +42,27 @@
     <body id="page-top" class="index">
 
     <header class="bgimg">
-    <div class="menu">
-      <table>
-        <tr>
-          <td>
-            <img class="lugu" src="https://ismir2022.ismir.net/assets/images/ismir2022.png">
-          </td>
-          <td class="fufor maleu-name">
-            International Society for Music Information Retrieval 
-          </td>
-        </tr>
-      </table>
-      <table class="menop">
-        <tr>
-          <td class="menops"><a id="kln" href = "index.html">home</a></td>
-          <td class="menops"><a id="kln" href = "comm.html">committee</a></td>
-          <td class="menops"><a id="kln" href = "#timdfh">tracks</a></td>
-          <td class="menops"><a id="kln" href = "#timdfh">program</a></td>
-          <td class="menops"><a id="kln" href = "#timdfh">authors</a></td>
-          <td class="menops"><a id="kln" href = "#timdfh">registration</a></td>
-        </tr>
-      </table>
-    </div>
-    <div class="headline" id="top">
-      <p class="wewed">Welcome to the 23<sup>rd</sup> International Society for Music Information Retrieval Conference</p>
-      <p class="weweda">December 4-8, 2022, Bengaluru, India</p>
-    </div>
+  <div class="topnav" id="myTopnav">
+      <a href="#home">Home</a>
+      <!-- <a href="#news">News</a>
+      <a href="#contact">Contact</a> -->
+      <div class="dropdown">
+        <button class="dropbtn">Dropdown 
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+        </div>
+      </div> 
+      <a href="#about">About</a>
+      <a href="javascript:void(0);" style="font-size:1em;" class="icon" onclick="myHambu()">&#9776;</a>
+  </div>
+  <div class="headline" id="top">
+    <p class="wewed">Welcome to the 23<sup>rd</sup> International Society for Music Information Retrieval Conference</p>
+    <p class="weweda">December 4-8, 2022, Bengaluru, India</p>
+  </div>
 </header>
     <table class="upun">
     <br><br>
