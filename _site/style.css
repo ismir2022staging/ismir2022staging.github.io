@@ -8,9 +8,10 @@ header{
 
 .bgimg {
     background-position: center;
-    background-size: cover;
-    background-image: url("https://ccece2021.ieee.ca/wp-content/uploads/sites/323/2021/06/BurgundyMic-1024x422-1.jpg");
-    min-height: 100%;
+    background-size: 78em auto;
+    background-repeat: no-repeat;
+    background-image: url("https://ismir2022.ismir.net/assets/images/banner_chariot_cropped.png");
+    /* height: 100%; */
 }
 
 .headline{
