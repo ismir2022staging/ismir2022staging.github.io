@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+.maincont{
+    font-family: 'Lato', sans-serif;
+}
+
 header{
     width: 100%;
 }
