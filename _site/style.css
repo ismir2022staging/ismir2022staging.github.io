@@ -4,6 +4,7 @@
 
 .maincont{
     font-family: 'Lato', sans-serif;
+    background-color: rgb(233, 236, 239);
 }
 
 header{
@@ -19,9 +20,9 @@ header{
 }
 
 .headline{
-    padding-top: 20%;
+    padding-top: 15%;
     text-align: center;
-    padding-bottom: 20%;
+    padding-bottom: 15%;
 }
 
 p.wewed{
@@ -450,7 +451,9 @@ button{
 .dea{
     padding-left: 1em;
     width: 50%;
+    /* display: block; */
     padding-right: 1em;
+    padding-bottom: 2em;
 }
 
 .imuk{
@@ -465,7 +468,7 @@ button{
 .vidtra {
     position: relative;
     overflow: hidden;
-    width: 100%;
+    width: 70%;
     padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
 }
   
