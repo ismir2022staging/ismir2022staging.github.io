@@ -2,11 +2,17 @@
     box-sizing: border-box;
 }
 
+h1{
+    color: rgb(216, 54, 22);
+}
+
 .maincont{
     font-family: 'Lato', sans-serif;
     background-color: rgb(233, 236, 239);
     padding-left: 2em;
     padding-right: 2em;
+    padding-top: 1em;
+    padding-bottom: 2em;
 }
 
 header{
