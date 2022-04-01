@@ -6,6 +6,47 @@ h1{
     color: rgb(216, 54, 22);
 }
 
+.suci {
+    color: inherit;
+}
+
+footer {
+    font-family: 'Lato', sans-serif;
+}
+
+.fa-brands {
+    font-size: 2em; 
+    color: rgb(216, 54, 22); 
+    padding-right: 0.5em; 
+    padding-left: 0.5em;
+}
+
+@media screen and (max-width: 768px) {
+
+    .fa-brands {
+        font-size: 1em;
+    }
+
+}
+
+.soci {
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+.cupri {
+    text-align: center;
+    font-size: 1em;
+}
+
+@media screen and (max-width: 768px) {
+
+    .cupri {
+        font-size: 0.1em;
+    }
+
+}
+
 .maincont{
     font-family: 'Lato', sans-serif;
     background-color: rgb(233, 236, 239);
