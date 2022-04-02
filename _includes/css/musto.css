@@ -80,6 +80,17 @@ header{
     padding-bottom: 15%;
 }
 
+@media screen and (max-width: 768px) {
+    .bgimg {
+        background-size: 22em auto;
+    }
+
+    .headline{
+        padding-top: 6em;
+        padding-bottom: 4em;
+    }
+}
+
 p.wewed{
     font-family: "Work Sans", Arial, serif;
     font-size: 70px;
@@ -129,7 +140,7 @@ li span {
   
 @media all and (max-width: 768px) {    
     li {
-      font-size: 0.5rem;
+      font-size: 1.0rem;
     }
     
     li span {
@@ -148,6 +159,10 @@ li span {
         border-radius: 50%;
         height: 4em;
         width: 4em;
+    }
+
+    .sposo{
+        font-size: 0.8em;
     }
 }
 
@@ -501,14 +516,38 @@ button{
 
 .upun{
     width: 100%;
+    display: block;
+}
+
+.moupun{
+    display: none;
 }
 
 .dea{
     padding-left: 1em;
     width: 50%;
-    /* display: block; */
+    display: inline-block;
     padding-right: 1em;
     padding-bottom: 2em;
+}
+
+@media screen and (max-width: 768px) {
+
+    .upun{
+        display: none;
+    }
+
+    .moupun{
+        display: block;
+        width: 100%;
+    }
+
+    .dea{
+        display: block;
+        width: 100%;
+        padding-right: 0%;
+        padding-left: 0%;
+    }
 }
 
 .imuk{

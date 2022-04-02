@@ -4,7 +4,7 @@ title: International Society for Music Information Retrieval
 abo : The annual conference of the International Society for Music Information Retrieval (ISMIR) will be held in Bengaluru, India from December 4-8, 2022. ISMIR represents the largest body of scholars, researchers and practitioners in the field of music information retrieval (MIR), an interdisciplinary research area concerned with processing, analysing, organising and accessing music information. The scope of ISMIR extends across the fields of computer science, musicology, cognitive science, library & information science and electrical engineering. With its strong research and application leanings, the ISMIR conference has traditionally been supported by prominent names in the music industry across the world.
 spo : ISMIR 2022 will be organized in a hybrid mode where we expect around 150 participants attending physically and over 800 participants virtually from around the world. ISMIR 2022 offers sponsorship opportunities for the main conference event in Platinum, Gold, Silver tiers, and as a Supporter. Taking this opportunity to become a valued sponsor of the conference provides you a platform to
 opli : <li>Showcase your organization’s latest research and products to an International community of MIR researchers and practitioners</li><li>Recruit top technical talent</li><li>Follow state of the art in music information research and technologies</li>
-spotab : <table>
+spotab : <table class = "sposo">
         <tr>
             <td>Platinum</td>
             <td>Gold</td>
@@ -134,7 +134,7 @@ supo : <table>
         </tr>
     </table>
 
-wispo : <table>
+wispo : <table class = "sposo">
         <tr>
             <td>Patron</td>
             <td>Contributor</td>
