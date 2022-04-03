@@ -447,12 +447,12 @@ button{
     transition: 0.3s;
     width: 40%;
     margin: 0 auto;
+    border-radius: 5px;
+    margin-bottom: 2em;
 }
 
-@media screen and (max-width: 768px) {
-    .card{
-        width: 60%;
-    }
+.kasjdfklas{
+    width: 20%;
 }
   
 .card:hover {
@@ -464,7 +464,7 @@ button{
 }
 
 .avatar{
-    width: 60%;
+    width: 100%;
     height: auto;
 }
 
@@ -474,6 +474,12 @@ button{
 
 .infa{
     font-size: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+    .card{
+        width: 60%;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -683,4 +689,9 @@ button{
       width: 100%;
       text-align: left;
     }
+}
+
+.teaotab{
+    width: 100%;
+    text-align: center;
 }
