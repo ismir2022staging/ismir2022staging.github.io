@@ -70,8 +70,8 @@ header{
     background-position: center;
     background-size: 78em auto;
     background-repeat: no-repeat;
+    background-color: rgb(233, 236, 239);
     background-image: url("https://ismir2022.ismir.net/assets/images/banner_chariot_cropped.png");
-    /* height: 100%; */
 }
 
 .headline{
@@ -450,10 +450,6 @@ button{
     border-radius: 5px;
     margin-bottom: 2em;
 }
-
-.kasjdfklas{
-    width: 20%;
-}
   
 .card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
@@ -464,8 +460,26 @@ button{
 }
 
 .avatar{
-    width: 100%;
+    width: 6em;
     height: auto;
+}
+
+.naerm{
+    font-weight: bold;
+    font-size: 1em;
+}
+
+@media screen and (max-width: 768px) {
+    .avatar{
+        width: 3em;
+    }
+    .naerm{
+        font-size: 0.5em;
+    }
+}
+
+.huda{
+    visibility: hidden;
 }
 
 .cardet{
