@@ -10,6 +10,10 @@ h1{
     color: inherit;
 }
 
+a {
+    color: rgb(216, 54, 22);
+}
+
 footer {
     font-family: 'Lato', sans-serif;
 }
@@ -36,7 +40,7 @@ footer {
 
 .cupri {
     text-align: center;
-    font-size: 1em;
+    font-size: 0.8em;
 }
 
 @media screen and (max-width: 768px) {
@@ -58,26 +62,29 @@ footer {
     background-color: rgb(233, 236, 239);
     padding-left: 2em;
     padding-right: 2em;
-    padding-top: 1em;
+    padding-top: 0em;
     padding-bottom: 2em;
+    margin-bottom: 0%;
 }
 
 header{
     width: 100%;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
 }
 
 .bgimg {
     background-position: center;
-    background-size: 78em auto;
+    background-size: 80em 20em;
     background-repeat: no-repeat;
     background-color: rgb(233, 236, 239);
-    background-image: url("https://ismir2022.ismir.net/assets/images/banner_chariot_cropped.png");
+    background-image: url("../../assets/banner_chariot_cropped.png");
 }
 
 .headline{
-    padding-top: 15%;
+    padding-top: 10em;
     text-align: center;
-    padding-bottom: 15%;
+    padding-bottom: 10em;
 }
 
 @media screen and (max-width: 768px) {
@@ -462,6 +469,7 @@ button{
 .avatar{
     width: 6em;
     height: auto;
+    border-radius: 50%;
 }
 
 .naerm{
@@ -537,6 +545,8 @@ button{
 .upun{
     width: 100%;
     display: block;
+    padding-top: 0%;
+    margin-top: 0%;
 }
 
 .moupun{
@@ -545,10 +555,14 @@ button{
 
 .dea{
     padding-left: 1em;
-    width: 50%;
+    width: 40%;
     display: inline-block;
     padding-right: 1em;
     padding-bottom: 2em;
+}
+
+.dea2{
+    width: 60%;
 }
 
 @media screen and (max-width: 768px) {
@@ -584,6 +598,14 @@ button{
     overflow: hidden;
     width: 70%;
     padding-top: 56.25%; /* 16:9 Aspect Ratio (divide 9 by 16 = 0.5625) */
+}
+
+.duta{
+    width: 100%;
+}
+
+.toipu, .toidu {
+    width: 50%;
 }
   
   /* Then style the iframe to fit in the container div with full height and width */
@@ -663,6 +685,10 @@ button{
 .topnav a:hover, .dropdown:hover .dropbtn {
     background-color: rgb(216, 54, 22);
     color: white;
+}
+
+a:first-child:hover{
+    background-color: #ddd;
 }
   
 .dropdown-content a:hover {
