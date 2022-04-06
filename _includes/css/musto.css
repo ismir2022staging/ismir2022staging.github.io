@@ -53,18 +53,32 @@ footer {
 
 .huli{
     height: auto;
-    width: 4em;
+    width: 8em;
+    height: auto;
     overflow: visible;
+}
+
+@media screen and (max-width: 768px) {
+    .huli{
+        width: 6em;
+    }
 }
 
 .maincont{
     font-family: 'Lato', sans-serif;
     background-color: rgb(233, 236, 239);
-    padding-left: 2em;
-    padding-right: 2em;
+    padding-left: 4em;
+    padding-right: 4em;
     padding-top: 0.01em;
     padding-bottom: 2em;
     margin-bottom: 0%;
+}
+
+@media screen and (max-width: 768px) {
+    .maincont{
+        padding-left: 2em;
+        padding-right: 2em;
+    }
 }
 
 header{
@@ -82,7 +96,7 @@ header{
 }
 
 .headline{
-    padding-top: 10em;
+    padding-top: 12em;
     text-align: center;
     padding-bottom: 10em;
 }
@@ -632,7 +646,7 @@ button{
     text-align: center;
     padding: 1em 2em;
     text-decoration: none;
-    font-size: 1em;
+    font-size: 1.2em;
     font-family: 'Lato', sans-serif;
 }
   
@@ -652,7 +666,7 @@ button{
 }
   
 .dropdown .dropbtn {
-    font-size: 1em;    
+    font-size: 1.2em;    
     border: none;
     outline: none;
     color: rgb(216, 54, 22);
