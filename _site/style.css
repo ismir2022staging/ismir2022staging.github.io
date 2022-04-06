@@ -646,7 +646,8 @@ button{
 }
   
 .dropdown {
-    float: right;
+    float: left;
+    /* float: right; */
     overflow: hidden;
 }
   
@@ -687,9 +688,9 @@ button{
     color: white;
 }
 
-.topnav a:not(:first-child){
+/* .topnav a:not(:first-child){
     float: right;
-}
+} */
 
 a:first-child:hover{
     background-color: #ddd;
