@@ -1,10 +1,8 @@
 ---
-layout: tutra
+layout: page
 title: International Society for Music Information Retrieval
 ---
-<br>
-
-## Call for Sponsorship
+# Call for Sponsorship
 <br>
 
 ### About ISMIR 2022

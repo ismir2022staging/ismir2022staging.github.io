@@ -1,10 +1,8 @@
 ---
-layout: tutra
+layout: page
 title: International Society for Music Information Retrieval
 ---
-<br>
-
-## New-to-ISMIR mentoring program
+# New-to-ISMIR mentoring program
 
 The New-to-ISMIR paper mentoring program is designed for members new to ISMIR (early stage researchers in MIR or researchers from allied fields who wish to consider submitting their work to an ISMIR conference) to share their advanced-stage work-in-progress ISMIR paper drafts with senior members of the ISMIR community (mentors) to obtain focused reviews and constructive feedback. The program supplements the generic submission guidelines. The program is being run as a pilot in 2022, closely aligned with the ISMIR 2022 paper submissions deadlines.
 

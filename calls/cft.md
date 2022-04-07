@@ -1,11 +1,8 @@
 ---
-layout: tutra
+layout: page
 title: International Society for Music Information Retrieval
 ---
-
-<br>
-
-## Call for Tutorials
+# Call for Tutorials
 <br>
 
 The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will be held in Bengaluru, India, from December 4th to 8th, 2022. It is currently planned to be in a hybrid format with the details to be finalized later. [https://ismir2022.ismir.net](https://ismir2022.ismir.net)

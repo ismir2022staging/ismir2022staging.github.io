@@ -2,6 +2,11 @@
     box-sizing: border-box;
 }
 
+
+body{
+    background-color: rgb(233, 236, 239);
+}
+
 h1{
     color: rgb(216, 54, 22);
 }
@@ -699,8 +704,8 @@ button{
 }
   
 .topnav a:hover, .dropdown:hover .dropbtn {
-    background-color: rgb(216, 54, 22);
-    color: white;
+    background-color: #ddd;
+    color: black;
 }
 
 /* .topnav a:not(:first-child){

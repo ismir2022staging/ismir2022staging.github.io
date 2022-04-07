@@ -1,11 +1,7 @@
 ---
-layout: tutra
+layout: page
 title: International Society for Music Information Retrieval
 ---
-
-
-<br>
-
 # Call for Papers
 <br>
 
