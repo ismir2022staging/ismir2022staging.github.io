@@ -518,6 +518,10 @@ button{
     display: none;
 }
 
+.huidas{
+    text-align: left;
+}
+
 .cardet{
     font-size: 1rem;
 }
