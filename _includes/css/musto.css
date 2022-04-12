@@ -80,7 +80,7 @@ footer {
 
 @media screen and (max-width: 768px) {
     .maincont{
-        padding-left: 10vw;
+        padding-left: 6vw;
         padding-right: 10vw;
     }
 }
@@ -773,4 +773,18 @@ a:first-child:hover{
 .teaotab{
     width: 100%;
     text-align: center;
+}
+
+.dutab{
+    width: 100%;
+}
+
+@media screen and (max-width: 600px) {
+    .dutab{
+        width: 80%;
+    }
+}
+
+.mubx{
+    border: 0.1em solid rgb(216, 54, 22);
 }
