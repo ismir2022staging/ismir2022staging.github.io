@@ -102,7 +102,7 @@ header{
 } */
 
 .headline{
-    background-image: url("../../assets/banner_chariot_cropped.png");
+    background-image: url("../../assets/images/banner_chariot_cropped.png");
     /* background-color: rgba(221, 221, 221, 1); */
     background-position: center;
     background-size: contain;
@@ -548,7 +548,7 @@ button{
 
     .tuxgol{
         font-size: 0.5em;
-        vertical-align: middle;
+        vertical-align: top;
         text-align: center;
     }
 
@@ -815,6 +815,11 @@ a:first-child:hover{
 
     .tiwit{
         display: none;
+    }
+
+    .itwit{
+        display: block;
+        padding-top: 2em;
     }
 }
 
