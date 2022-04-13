@@ -522,6 +522,14 @@ button{
     text-align: left;
 }
 
+.mugol{
+    width: 25%;
+}
+
+.tuxgol{
+    width: 75%;
+}
+
 .cardet{
     font-size: 1rem;
 }
@@ -537,6 +545,13 @@ button{
 }
 
 @media screen and (max-width: 768px) {
+
+    .tuxgol{
+        font-size: 0.5em;
+        vertical-align: middle;
+        text-align: center;
+    }
+
     .container {
         padding: 2px;
     }
@@ -786,6 +801,20 @@ a:first-child:hover{
 }
 
 .mubx{
-    border: 0.1em solid rgb(216, 54, 22);
+    background-color: rgb(255, 255, 255);
+}
+
+.itwit{
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .mubx{
+        font-size: 0.5em;
+    }
+
+    .tiwit{
+        display: none;
+    }
 }
 
