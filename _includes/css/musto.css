@@ -58,10 +58,10 @@ footer {
 
 .huli{
     height: auto;
-    width: 12em;
+    width: 10em;
     height: auto;
     overflow: visible;
-    padding-left: 2em;
+    padding-left: 1em;
 }
 
 @media screen and (max-width: 768px) {
@@ -679,7 +679,7 @@ button{
     display: block;
     color: rgb(216, 54, 22);
     text-align: center;
-    padding: 1em 2em;
+    padding: 1em 1em;
     text-decoration: none;
     font-size: 1.2em;
     font-family: 'Lato', sans-serif;
@@ -705,7 +705,7 @@ button{
     border: none;
     outline: none;
     color: rgb(216, 54, 22);
-    padding: 1em 2em;
+    padding: 1em 1em;
     background-color: inherit;
     font-family: inherit;
     margin: 0;
@@ -802,6 +802,7 @@ a:first-child:hover{
 
 .mubx{
     background-color: rgb(255, 255, 255);
+    text-align: center;
 }
 
 .itwit{
