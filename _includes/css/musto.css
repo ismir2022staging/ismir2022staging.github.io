@@ -30,6 +30,10 @@ footer {
     padding-left: 0.5em;
 }
 
+.fa-brands:hover {
+    color: rgb(0, 0, 0);
+}
+
 @media screen and (max-width: 768px) {
 
     .fa-brands {
