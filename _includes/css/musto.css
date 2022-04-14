@@ -364,14 +364,14 @@ li span {
     display: none;
 }
 
-th:hover{
+/* th:hover{
     background-color: rgb(255, 0, 0);
 }
 
 th{
     color: rgb(255, 255, 255);
     width: 50%;
-}
+} */
 
 .recepl, .weddil{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -670,7 +670,7 @@ button{
 }
 
 .topnav {
-    padding-left: 7vw;
+    padding-left: 14vw;
     overflow: hidden;
     background-color: rgb(233, 236, 239);
     color: rgb(0, 0, 0);
@@ -737,6 +737,12 @@ button{
     text-align: left;
     color: rgb(216, 54, 22);
     font-family: 'Lato', sans-serif;
+}
+
+@media screen and (max-width: 600px) {
+    .topnav{
+        padding-left: 2vw;
+    }
 }
 
 .dropdown-content a:first-child {
@@ -820,7 +826,7 @@ a:first-child:hover{
 }
 
 .dutab{
-    width: 40%;
+    width: 50%;
 }
 
 @media screen and (max-width: 600px) {
@@ -832,6 +838,16 @@ a:first-child:hover{
 .mubx{
     background-color: rgb(255, 255, 255);
     text-align: left;
+}
+
+.mubx td{
+    padding-left: 4vw;
+    padding-right: 2vw;
+    padding-bottom: 1vh;
+}
+
+.mubx:last-child td{
+    padding-bottom: 8vh;
 }
 
 .itwit{
