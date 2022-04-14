@@ -1,8 +1,4 @@
----
-layout: default
-title: International Society for Music Information Retrieval
----
-# Welcome to ISMIR 2022!
+I":#<h1 id="welcome-to-ismir-2022">Welcome to ISMIR 2022!</h1>
 <!-- <div class="hwrap"><div class="hmove"><div class="hitem">
     <p> <strong> New-to-ISMIR mentoring program has started: <a style="color:red" href="https://ismir2022.ismir.net/diversity/mentoring"> Inviting Applications </a>[Deadline: <strike>25 Feb, 2022</strike> 28 Feb, 2022] </strong></p>
     </div></div></div> -->
@@ -36,15 +32,16 @@ title: International Society for Music Information Retrieval
     <a href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ISMIRConf</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
     </div> -->
 <!-- </div> -->
-<br>
+<p><br /></p>
 <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
-<br>
+<p><br /></p>
 
-<h3>Important Dates (AoE)</h3>
+<p><a class="twitter-timeline" data-width="200" data-height="600" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
-<div class="tiwit"><a class="twitter-timeline" data-width="400" data-height="550" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-
-<table class="dutab" rules=none>
+<table class="dutab" rules="none">
+    <tr>
+        <td> <h3>Important Dates (AoE)</h3> </td>
+    </tr>
     <tr class="mubx">
         <td><h4><span style="color:#DB442A">Papers</span></h4></td>
         <td> </td>
@@ -111,7 +108,7 @@ title: International Society for Music Information Retrieval
     </tr>
 </table>
 
-<div class="itwit"><a class="twitter-timeline" data-width="250" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="itwit"><a class="twitter-timeline" data-width="200" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 <!-- | **Important Dates (AoE)** | | <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>|
 |:--------|---------:|:-------:|
@@ -158,10 +155,11 @@ title: International Society for Music Information Retrieval
 <!-- <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {: .center-align}
 <br><br> -->
-<br>
-<p align="center"><iframe width="300" height="160" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><br /></p>
+<p align="center"><iframe width="300" height="160" src="https://www.youtube.com/embed/F1mYxLbYHfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 <!-- <div class="embed-responsive embed-responsive-16by9">
   <p align="center"><iframe width="150" class="embed-responsive-item" src="https://www.youtube.com/embed/F1mYxLbYHfg"></iframe></p>
 </div> -->
-<br>
-<!-- <p align="center"><a href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p> -->
+<p><br />
+<!-- <p align="center"><a href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p> --></p>
+:ET

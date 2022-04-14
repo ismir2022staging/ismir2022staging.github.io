@@ -62,10 +62,9 @@ footer {
 
 .huli{
     height: auto;
-    width: 10em;
-    height: auto;
+    width: 8em;
     overflow: visible;
-    padding-left: 1em;
+    margin-top: 0em;
 }
 
 @media screen and (max-width: 768px) {
@@ -683,10 +682,14 @@ button{
     display: block;
     color: rgb(216, 54, 22);
     text-align: center;
-    padding: 1em 1em;
+    padding: 1.5em 1em;
     text-decoration: none;
     font-size: 1.2em;
     font-family: 'Lato', sans-serif;
+}
+
+.topnav a:first-child {
+    padding: 0em 0em;
 }
   
 .active {
@@ -709,7 +712,7 @@ button{
     border: none;
     outline: none;
     color: rgb(216, 54, 22);
-    padding: 1em 1em;
+    padding: 1.5em 1em;
     background-color: inherit;
     font-family: inherit;
     margin: 0;
@@ -734,6 +737,10 @@ button{
     text-align: left;
     color: rgb(216, 54, 22);
     font-family: 'Lato', sans-serif;
+}
+
+.dropdown-content a:first-child {
+    padding: 1em 2em;
 }
   
 .topnav a:hover, .dropdown:hover .dropbtn {
@@ -789,13 +796,31 @@ a:first-child:hover{
     }
 }
 
+@media screen and (max-width: 768px) {
+
+    .topnav a:not(:first-child){
+        padding: 0.5em 1em;
+        font-size: 1em;
+    }
+
+    .dropdown .dropbtn {
+        padding: 0.5em 1em;
+        font-size: 1em;
+    }
+
+    .dropdown-content a:first-child {
+        padding: 0.5em 1em;
+        font-size: 1em;
+    }
+}
+
 .teaotab{
     width: 100%;
     text-align: center;
 }
 
 .dutab{
-    width: 100%;
+    width: 40%;
 }
 
 @media screen and (max-width: 600px) {
@@ -806,11 +831,15 @@ a:first-child:hover{
 
 .mubx{
     background-color: rgb(255, 255, 255);
-    text-align: center;
+    text-align: left;
 }
 
 .itwit{
     display: none;
+}
+
+.tiwit{
+    float: right;
 }
 
 @media screen and (max-width: 600px) {
