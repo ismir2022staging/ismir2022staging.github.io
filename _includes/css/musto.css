@@ -531,6 +531,7 @@ button{
 
 .tuxgol{
     width: 75%;
+    text-align: left;
 }
 
 .cardet{
@@ -552,7 +553,7 @@ button{
     .tuxgol{
         font-size: 0.5em;
         vertical-align: top;
-        text-align: center;
+        text-align: left;
     }
 
     .container {
