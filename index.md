@@ -8,6 +8,22 @@ title: International Society for Music Information Retrieval
 <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
 <br>
 
+<h3>Important Announcements</h3>
+<table class="dutab" rules=none>
+        <tr class="mubx">
+            <td><h4>Submit all the papers right now</h4></td>
+        </tr>
+        <tr class="mubx">
+            <td><h4>Submit all the papers right now</h4></td>
+        </tr>
+        <tr class="mubx">
+            <td><h4>Submit all the papers right now</h4></td>
+        </tr>
+        <tr class="mubx">
+            <td><h4>Submit all the papers right now</h4></td>
+        </tr>
+</table>
+
 <h3>Important Dates (AoE)</h3>
 
 <div class="tiwit"><a class="twitter-timeline" data-width="400" data-height="550" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
