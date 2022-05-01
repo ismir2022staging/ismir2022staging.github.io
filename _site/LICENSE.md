@@ -1,1 +1,0 @@
-&copy; 2022 ISMIR 2022. ISMIR 2022 logo designed by Mrinali Kamath.
