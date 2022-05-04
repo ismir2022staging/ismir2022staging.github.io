@@ -8,41 +8,17 @@ title: International Society for Music Information Retrieval
 <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
 <br>
 
-<h3>Important Announcements</h3>
+<h3>Highlights</h3>
 <table class="scrolldown" rules=none>
 		<tbody>
 			<tr>
-				<td>Submit your papers now</td>
+				<td><a href="https://ismir2021.ismir.net/blog/preparing/">Tips</a> to prepare your ISMIR submission</td>
 			</tr>
 			<tr>
-				<td>Submit your papers now</td>
+				<td>Insights on ISMIR Reviewing experience - <a href="https://ismir2021.ismir.net/blog/insights/">Part 1</a>, <a href="https://ismir2021.ismir.net/blog/insights2/">Part 2</a></td>
 			</tr>
 			<tr>
-				<td>Submit your papers now</td>
-			</tr>
-			<tr>
-				<td>Submit your papers now</td>
-			</tr>
-			<tr>
-				<td>Submit your papers now</td>
-			</tr>
-			<tr>
-				<td>Submit your papers now</td>
-			</tr>
-			<tr>
-				<td>Submit your papers now</td>
-			</tr>
-			<tr>
-				<td>Submit your papers now</td>
-			</tr>
-			<tr>
-				<td>Submit your papers now</td>
-			</tr>
-			<tr>
-				<td>Submit your papers now</td>
-			</tr>
-			<tr>
-				<td>Submit your papers now</td>
+				<td>ISMIR 2022 paper submission site is now open! For more info, check out the <a href="https://ismir2022.ismir.net/calls/cfp">Call for Papers</a>.</td>
 			</tr>
 		</tbody>
 </table>
