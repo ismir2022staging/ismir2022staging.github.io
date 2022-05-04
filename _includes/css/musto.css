@@ -216,84 +216,6 @@ li span {
     text-align: center;
 }
 
-.humtab{
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.male-name{
-    float: left;
-    font-family: "Work Sans", Arial, serif;
-    padding-top: 0.6em;
-    padding-right: 2em;
-    font-size: 2em;
-    font-weight: 1000;
-}
-
-.maleu-name{
-    font-family: "Work Sans", Arial, serif;
-    font-size: 2em;
-    font-weight: 1000;
-    padding-top: 2em;
-}
-
-.baap{
-    padding-top: 0em;
-    font-size: 1.5em;
-}
-
-@media all and (max-width: 768px) {    
-    .humtab{
-        margin-left: 0px;
-        margin-right: 0px;
-        width: 100%;
-    }
-
-    .maleu-name{
-        font-size: 0.7em;
-    }
-
-    .baap{
-        font-size: 0.5em;
-    }
-}
-
-.female-name{
-    float: right;
-    font-family: "Work Sans", Arial, serif;
-    padding-top: 0.6em;
-    padding-left: 2em;
-    font-size: 2em;
-    font-weight: 1000;
-}
-
-.lefmal{
-    display: inline-block;
-}
-
-.rigfem{
-    display: inline-block;
-}
-
-@media all and (max-width: 768px) {    
-    .male-name{
-        float: left;
-        font-size: 0.4em;
-        padding-top: 3.5em;
-        padding-right: 2em;
-        font-weight: 1000;
-    }
-    
-    .female-name{
-        float: right;
-        font-size: 0.4em;
-        padding-top: 3.5em;
-        padding-left: 2em;
-        font-weight: 1000;
-    }
-
-}
-
 .vl {
     border-left: 6px solid rgb(250, 250, 250);
     height: 500px;
@@ -303,19 +225,26 @@ li span {
     top: 0;
 }
 
-.blessit{
-    text-align: center;
-    font-family: "Work Sans", Arial, serif;
-    font-size: 50px;
-    color: rgb(0, 0, 0);
-    font-weight: 1000;
-    padding-top: 2em;
+.scrolldown {
+    width: 100%;
+    background-color: rgb(255, 255, 255);
 }
 
-@media screen and (max-width: 768px) {
-    .blessit{
-        font-size: 1.6em;
-    }
+.scrolldown tbody {
+    display: block;
+}
+
+.scrolldown tbody {
+    
+    height: 20vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.scrolldown tbody td {
+    text-align:center;
+    width : 100vw;
+    padding-top: 1vh;
 }
   
   /* The actual content */
@@ -832,7 +761,7 @@ a:first-child:hover{
 
 @media screen and (max-width: 600px) {
     .dutab{
-        width: 80%;
+        width: 100%;
     }
 }
 
@@ -861,7 +790,7 @@ a:first-child:hover{
 
 @media screen and (max-width: 600px) {
     .mubx{
-        font-size: 0.5em;
+        font-size: 0.8em;
     }
 
     .tiwit{

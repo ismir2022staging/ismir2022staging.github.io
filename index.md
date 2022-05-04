@@ -9,19 +9,42 @@ title: International Society for Music Information Retrieval
 <br>
 
 <h3>Important Announcements</h3>
-<table class="dutab" rules=none>
-        <tr class="mubx">
-            <td><h4>Submit all the papers right now</h4></td>
-        </tr>
-        <tr class="mubx">
-            <td><h4>Submit all the papers right now</h4></td>
-        </tr>
-        <tr class="mubx">
-            <td><h4>Submit all the papers right now</h4></td>
-        </tr>
-        <tr class="mubx">
-            <td><h4>Submit all the papers right now</h4></td>
-        </tr>
+<table class="scrolldown" rules=none>
+		<tbody>
+			<tr>
+				<td>Submit your papers now</td>
+			</tr>
+			<tr>
+				<td>Submit your papers now</td>
+			</tr>
+			<tr>
+				<td>Submit your papers now</td>
+			</tr>
+			<tr>
+				<td>Submit your papers now</td>
+			</tr>
+			<tr>
+				<td>Submit your papers now</td>
+			</tr>
+			<tr>
+				<td>Submit your papers now</td>
+			</tr>
+			<tr>
+				<td>Submit your papers now</td>
+			</tr>
+			<tr>
+				<td>Submit your papers now</td>
+			</tr>
+			<tr>
+				<td>Submit your papers now</td>
+			</tr>
+			<tr>
+				<td>Submit your papers now</td>
+			</tr>
+			<tr>
+				<td>Submit your papers now</td>
+			</tr>
+		</tbody>
 </table>
 
 <h3>Important Dates (AoE)</h3>
@@ -91,6 +114,6 @@ title: International Society for Music Information Retrieval
     </tr>
 </table>
 
-<div class="itwit"><a class="twitter-timeline" data-width="250" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="itwit"><a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 <br>
 <br>
