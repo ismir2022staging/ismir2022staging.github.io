@@ -236,13 +236,13 @@ li span {
 
 .scrolldown tbody {
     
-    height: 20vh;
+    height: 15vh;
     overflow-y: auto;
     overflow-x: hidden;
 }
 
 .scrolldown tbody td {
-    text-align:center;
+    text-align:left;
     width : 100vw;
     padding-top: 1vh;
 }
