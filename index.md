@@ -12,10 +12,10 @@ title: International Society for Music Information Retrieval
 <table class="scrolldown" rules=none>
 		<tbody>
 			<tr>
-				<td><li data-stringify-indent="0" data-stringify-border="0"><a href="https://ismir2021.ismir.net/blog/preparing/">Tips</a> to prepare your ISMIR submission</li></td>
+				<td><li data-stringify-indent="0" data-stringify-border="0"><a href="https://ismir2021.ismir.net/blog/preparing/">Tips</a> to prepare your ISMIR submission.</li></td>
 			</tr>
 			<tr>
-				<td><li data-stringify-indent="0" data-stringify-border="0">Insights on ISMIR Reviewing experience - <a href="https://ismir2021.ismir.net/blog/insights/">Part 1</a>, <a href="https://ismir2021.ismir.net/blog/insights2/">Part 2</a></li></td>
+				<td><li data-stringify-indent="0" data-stringify-border="0">Insights on ISMIR Reviewing experience - <a href="https://ismir2021.ismir.net/blog/insights/">Part 1</a>, <a href="https://ismir2021.ismir.net/blog/insights2/">Part 2</a>.</li></td>
 			</tr>
 			<tr>
 				<td><li>ISMIR 2022 paper submission site is now open! For more info, check out the <a href="https://ismir2022.ismir.net/calls/cfp">Call for Papers</a>.</li></td>
