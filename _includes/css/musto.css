@@ -245,6 +245,9 @@ li span {
     text-align:left;
     width : 100vw;
     padding-top: 1vh;
+    padding-left: 2vw;
+    padding-right: 2vw;
+    padding-bottom: 1vh;
 }
   
   /* The actual content */
