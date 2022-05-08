@@ -114,7 +114,7 @@ li span {
     display: block;
     font-size: 2.0rem;
 }
- 
+  
 @media all and (max-width: 768px) {    
     li {
       font-size: 1.0rem;
@@ -187,14 +187,14 @@ button{
     width: 25%;
 }
 
-.volunteertext{
+.volunteerinfo{
     width: 75%;
     text-align: left;
 }
 
 @media screen and (max-width: 768px) {
 
-    .volunteertext{
+    .volunteerinfo{
         font-size: 0.5em;
         vertical-align: top;
         text-align: left;
@@ -203,8 +203,9 @@ button{
     .container {
         padding: 2px;
     }
-}
 
+}
+  
 .topnav {
     padding-left: 14vw;
     overflow: hidden;
@@ -363,22 +364,22 @@ a:first-child:hover{
 
 @media screen and (max-width: 600px) {
     .timelinetable{
-        width: 100%;
+        width: 80%;
     }
 }
 
-.timelinesection{
+.timelineparts{
     background-color: rgb(255, 255, 255);
     text-align: left;
 }
 
-.timelinesection td{
+.timelineparts td{
     padding-left: 2vw;
     padding-right: 2vw;
     padding-bottom: 1vh;
 }
 
-.timelinesection:last-child td{
+.timelineparts:last-child td{
     padding-bottom: 8vh;
 }
 
@@ -386,16 +387,16 @@ a:first-child:hover{
     display: none;
 }
 
-.othertwitter{
+.fulltwitter{
     float: right;
 }
 
 @media screen and (max-width: 600px) {
-    .timelinesection{
-        font-size: 0.8em;
+    .timelineparts{
+        font-size: 0.5em;
     }
 
-    .othertwitter{
+    .fulltwitter{
         display: none;
     }
 
@@ -403,4 +404,21 @@ a:first-child:hover{
         display: block;
         padding-top: 2em;
     }
+}
+
+.platinum-wrapper{
+        width: 330px;
+        height: auto;
+  }
+.gold-wrapper {
+        width: 230px;
+        height: auto;
+  }
+.silver-wrapper {
+        width: 150px;
+        height: auto;
+  }
+.supporter-wrapper {
+        width: 90px;
+        height: auto;
 }
