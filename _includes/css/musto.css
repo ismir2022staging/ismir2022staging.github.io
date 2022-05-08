@@ -11,7 +11,7 @@ h1{
     color: rgb(216, 54, 22);
 }
 
-.suci {
+.medialinks {
     color: inherit;
 }
 
@@ -42,25 +42,25 @@ footer {
 
 }
 
-.soci {
+.socialtable {
     margin-left: auto; 
     margin-right: auto;
 }
 
-.cupri {
+.copyright {
     text-align: center;
     font-size: 0.8em;
 }
 
 @media screen and (max-width: 768px) {
 
-    .cupri {
+    .copyright {
         font-size: 0.1em;
     }
 
 }
 
-.huli{
+.indexlogo{
     height: auto;
     width: 8em;
     overflow: visible;
@@ -68,12 +68,12 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-    .huli{
+    .indexlogo{
         width: 6em;
     }
 }
 
-.maincont{
+.maincontent{
     font-family: 'Lato', sans-serif;
     background-color: rgb(233, 236, 239);
     padding-left: 14vw;
@@ -82,7 +82,7 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-    .maincont{
+    .maincontent{
         padding-left: 6vw;
         padding-right: 10vw;
     }
@@ -92,48 +92,22 @@ header{
     width: 100%;
 }
 
-/* .bgimg {
-    background-position: center;
-    background-size: contain;
-    width: 80vw;
-    height: 0%;
-    background-size: 80vw 50vh;
-    margin: 0 auto;
-    background-repeat: no-repeat;
-    background-color: rgb(233, 236, 239);
-    background-image: url("../../assets/banner_chariot_cropped.png");
-} */
-
-.headline{
+.headbanner{
     background-image: url("../../assets/images/banner_chariot_cropped.png");
-    /* background-color: rgba(221, 221, 221, 1); */
     background-position: center;
     background-size: contain;
     background-repeat: no-repeat;
     width: 100%;
     height: 38vh;
-    /* padding-top: 40vh; */
-    /* text-align: center; */
     padding-bottom: 20vh;
 }
 
 @media screen and (max-width: 768px) {
-    /* .bgimg {
-        background-size: 22em auto;
-    } */
 
-    .headline{
+    .headbanner{
         height: 0vh;
         padding-bottom: 10vh;
     }
-}
-
-img.lugu{
-    height: auto;
-    width: 20%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
 }
 
 li span {
@@ -148,12 +122,6 @@ li span {
     
     li span {
       font-size: 1.0rem;
-    }
-}
-
-@media all and (max-width: 768px) {   
-    .sposo{
-        font-size: 0.8em;
     }
 }
 
@@ -181,15 +149,6 @@ li span {
     padding-right: 2vw;
     padding-bottom: 1vh;
 }
-  
-  /* The actual content */
-.content {
-    padding: 20px 80px 30px 60px;
-    background-color: rgb(255, 255, 255);
-    position: relative;
-    border-radius: 6px;
-    color: rgb(0, 0, 0);
-}
 
 button{
     background-color: rgba(255, 255, 255, 0);
@@ -206,7 +165,7 @@ button{
     border-radius: 50%;
 }
 
-.naerm{
+.avatarname{
     font-weight: bold;
     font-size: 1em;
 }
@@ -215,27 +174,27 @@ button{
     .avatar{
         width: 3em;
     }
-    .naerm{
+    .avatarname{
         font-size: 0.5em;
     }
 }
 
-.huidas{
+.teamsection{
     text-align: left;
 }
 
-.mugol{
+.avatarbox{
     width: 25%;
 }
 
-.tuxgol{
+.volunteertext{
     width: 75%;
     text-align: left;
 }
 
 @media screen and (max-width: 768px) {
 
-    .tuxgol{
+    .volunteertext{
         font-size: 0.5em;
         vertical-align: top;
         text-align: left;
@@ -244,28 +203,6 @@ button{
     .container {
         padding: 2px;
     }
-}
-
-.dea{
-    padding-left: 1em;
-    width: 40%;
-    display: inline-block;
-    padding-right: 1em;
-    padding-bottom: 2em;
-}
-
-@media screen and (max-width: 768px) {
-
-    .dea{
-        display: block;
-        width: 100%;
-        padding-right: 0%;
-        padding-left: 0%;
-    }
-}
-
-.duta{
-    width: 100%;
 }
 
 .topnav {
@@ -415,54 +352,54 @@ a:first-child:hover{
     }
 }
 
-.teaotab{
+.customtable{
     width: 100%;
     text-align: center;
 }
 
-.dutab{
+.timelinetable{
     width: 50%;
 }
 
 @media screen and (max-width: 600px) {
-    .dutab{
+    .timelinetable{
         width: 100%;
     }
 }
 
-.mubx{
+.timelinesection{
     background-color: rgb(255, 255, 255);
     text-align: left;
 }
 
-.mubx td{
+.timelinesection td{
     padding-left: 2vw;
     padding-right: 2vw;
     padding-bottom: 1vh;
 }
 
-.mubx:last-child td{
+.timelinesection:last-child td{
     padding-bottom: 8vh;
 }
 
-.itwit{
+.mobiletwitter{
     display: none;
 }
 
-.tiwit{
+.othertwitter{
     float: right;
 }
 
 @media screen and (max-width: 600px) {
-    .mubx{
+    .timelinesection{
         font-size: 0.8em;
     }
 
-    .tiwit{
+    .othertwitter{
         display: none;
     }
 
-    .itwit{
+    .mobiletwitter{
         display: block;
         padding-top: 2em;
     }
