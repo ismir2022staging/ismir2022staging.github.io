@@ -1,5 +1,5 @@
 ---
-layout: tuim
+layout: teampage
 title: International Society for Music Information Retrieval
 ---
 <table class="customtable">
