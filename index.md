@@ -8,6 +8,8 @@ title: International Society for Music Information Retrieval
 <p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
 <br>
 
+<a href="reviewprocess">Review Process</a>
+
 <h3>Highlights</h3>
 <table class="scrolldown" rules=none>
 		<tbody>
