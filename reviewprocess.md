@@ -8,4 +8,19 @@ title: International Society for Music Information Retrieval
 # Review Process
 <br>
 
-<iframe class="pdfviewer" src="https://docs.google.com/gview?url=https://drive.google.com/uc?id=1X41VSLn0Iw49272iRFQjNRgSmq2MH35K&embedded=true" />
+<!-- <iframe class="pdfviewer" src="assets\ISMIR2022-ReviewForm.pdf" /> -->
+
+<div>
+      <object
+        data='assets\ISMIR2022-ReviewForm.pdf'
+        type="application/pdf"
+        class="pdfviewer"
+        >
+        <iframe
+          src='assets\ISMIR2022-ReviewForm.pdf'
+          class="pdfviewer"
+        >
+        <p>This browser does not support PDF!</p>
+        </iframe>
+      </object>
+</div>
