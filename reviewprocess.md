@@ -20,7 +20,7 @@ title: International Society for Music Information Retrieval
           src='assets\ISMIR2022-ReviewForm.pdf#toolbar=0'
           class="pdfviewer"
         >
-        <p>This browser does not support PDF!</p>
+        <p>Click <a href = 'assets\ISMIR2022-ReviewForm.pdf'>here</a> to view the PDF</p>
         </iframe>
       </object>
       <p class="downloadpdf">Click <a href = 'assets\ISMIR2022-ReviewForm.pdf'>here</a> to view the PDF</p>
