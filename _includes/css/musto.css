@@ -431,9 +431,15 @@ a:first-child:hover{
     width: 80vw;
 }
 
+.downloadpdf{
+    display: none;
+}
+
 @media screen and (max-width: 600px) {
     .pdfviewer{
-        height: 100vh;
-        width: 85vw;
+        display: none;
+    }
+    .downloadpdf{
+        display: block;
     }
 }
