@@ -6,6 +6,16 @@ title: International Society for Music Information Retrieval
 <table class="customtable">
     <tr>
         <td class="teamsection" colspan="4">
+            <h2>Gold</h2>
+        </td>
+    </tr>
+    <tr>
+        <td class="teamsection">
+            <a href="https://indsca.web.app/about" target="_blank"><img src="/assets/sponsors/IndSCA-logo.png" alt="Avatar" class="gold-wrapper"></a>
+        </td>
+    </tr>
+    <tr>
+        <td class="teamsection" colspan="4">
             <h2>Supporters</h2>
         </td>
     </tr>
