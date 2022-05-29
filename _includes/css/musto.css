@@ -407,23 +407,51 @@ a:first-child:hover{
 }
 
 .platinum-wrapper{
-        width: 330px;
-        height: auto;
+    width: 330px;
+    height: auto;
+    border: 0.1em solid black;
 }
 
 .gold-wrapper {
-        width: 14em;
-        height: auto;
+    width: 14em;
+    height: auto;
+    border: 0.1em solid black;
 }
 
 .silver-wrapper {
-        width: 10em;
-        height: auto;
+    width: 10em;
+    height: auto;
+    border: 0.1em solid black;
 }
 
 .supporter-wrapper {
-        width: 5em;
-        height: auto;
+    width: 5em;
+    height: auto;
+    border: 0.1em solid black;
+}
+
+.org-platinum-wrapper{
+    width: 330px;
+    height: auto;
+    border: 0.1em solid black;
+}
+
+.org-gold-wrapper {
+    width: 230px;
+    height: auto;
+    border: 0.1em solid black;
+}
+
+.org-silver-wrapper {
+    width: 150px;
+    height: auto;
+    border: 0.1em solid black;
+}
+
+.org-supporter-wrapper {
+    width: 90px;
+    height: auto;
+    border: 0.1em solid black;
 }
 
 .pdfviewer{
