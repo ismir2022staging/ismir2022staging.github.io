@@ -12,7 +12,7 @@ title: International Society for Music Information Retrieval
 <table class="scrolldown" rules=none>
 		<tbody>
             <tr>
-                <td><li data-stringify-indent="0" data-stringify-border="0">Check out the paper review process of ISMIR <a href="reviewprocess">here</a></li></td>
+                <td><li data-stringify-indent="0" data-stringify-border="0">Check out the paper review form of ISMIR <a href="reviewform">here</a>.</li></td>
             </tr>
 			<tr>
 				<td><li data-stringify-indent="0" data-stringify-border="0"><a href="https://ismir2021.ismir.net/blog/preparing/">Tips</a> to prepare your ISMIR submission.</li></td>
@@ -20,9 +20,9 @@ title: International Society for Music Information Retrieval
 			<tr>
 				<td><li data-stringify-indent="0" data-stringify-border="0">Insights on ISMIR Reviewing experience - <a href="https://ismir2021.ismir.net/blog/insights/">Part 1</a>, <a href="https://ismir2021.ismir.net/blog/insights2/">Part 2</a>.</li></td>
 			</tr>
-			<tr>
-				<td><li><a href="https://cmt3.research.microsoft.com/ISMIR2022/">ISMIR 2022 paper submission site</a> is now open! For more info, check out the <a href="https://ismir2022.ismir.net/calls/cfp">Call for Papers</a>.</li></td>
-			</tr>
+			<!-- <tr>
+				<td><li><a href="https://cmt3.research.microsoft.com/ISMIR2022/"><span style="text-decoration:line-through">ISMIR 2022 paper submission site</span></a><span style="text-decoration:line-through"> is now open! For more info, check out the </span><a href="https://ismir2022.ismir.net/calls/cfp"><span style="text-decoration:line-through">Call for Papers</span></a>.</li></td>
+			</tr> -->
 		</tbody>
 </table>
 
@@ -36,16 +36,16 @@ title: International Society for Music Information Retrieval
         <td> </td>
     </tr>
     <tr class="timelineparts">
-        <td>Submission site opening</td>
-        <td> April 22, 2022 </td>
+        <td><span style="text-decoration:line-through">Submission site opening</span></td>
+        <td><span style="text-decoration:line-through">April 22, 2022</span></td>
     </tr>
     <tr class="timelineparts">
-        <td>Abstract submission deadline</td>
-        <td> May 13, 2022 </td>
+        <td><span style="text-decoration:line-through">Abstract submission deadline</span></td>
+        <td><span style="text-decoration:line-through">May 13, 2022</span></td>
     </tr>
     <tr class="timelineparts">
-        <td>Full paper submission deadline</td>
-        <td> May 20, 2022 </td>
+        <td><span style="text-decoration:line-through">Full paper submission deadline</span></td>
+        <td> <span style="text-decoration:line-through">May 20, 2022</span></td>
     </tr>
     <tr class="timelineparts">
         <td>Notification of acceptance</td>
@@ -60,12 +60,12 @@ title: International Society for Music Information Retrieval
         <td> </td>
     </tr>
     <tr class="timelineparts">
-        <td>Proposal Submission</td>
-        <td> April 17, 2022 </td>
+        <td><span style="text-decoration:line-through">Proposal Submission</span></td>
+        <td><span style="text-decoration:line-through">April 17, 2022</span></td>
     </tr>
     <tr class="timelineparts">
-        <td>Revision</td>
-        <td>April 24, 2022</td>
+        <td><span style="text-decoration:line-through">Revision</span></td>
+        <td><span style="text-decoration:line-through">April 24, 2022</span></td>
     </tr>
     <tr class="timelineparts">
         <td>Notification of Acceptance</td>
