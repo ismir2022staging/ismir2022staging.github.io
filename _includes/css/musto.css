@@ -181,6 +181,7 @@ button{
 
 .teamsection{
     text-align: left;
+    width: fit-content;
 }
 
 .avatarbox{

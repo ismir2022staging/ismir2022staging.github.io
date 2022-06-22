@@ -4,11 +4,19 @@ title: International Society for Music Information Retrieval
 ---
 <h1>Sponsors</h1>
 <table class="customtable">
-    <!-- <tr>
+    <tr>
         <td class="teamsection" colspan="4">
             <h2 class="sponsorhead" style="background-color:#8f8a8a;">Platinum</h2>
         </td>
-    </tr> -->
+    </tr>
+    <tr>
+        <td class="teamsection">
+            <a href="https://research.atspotify.com/" target="_blank"><img src="/assets/sponsors/Spotify-logo.png" alt="Avatar" class="platinum-wrapper"></a>
+        </td>
+    </tr>
+    <tr>
+       <td>&nbsp;</td>
+    </tr>
     <tr>
         <td class="teamsection" colspan="4">
             <h2 class="sponsorhead" style="background-color:#c8b037;">Gold</h2>
@@ -20,6 +28,17 @@ title: International Society for Music Information Retrieval
         </td>
         <td class="teamsection">
             <a href="https://www.adobe.com" target="_blank"><img src="/assets/sponsors/Adobe-logo.png" alt="Avatar" class="gold-wrapper"></a>
+        </td>
+        <td class="teamsection">
+            <a href="https://deezer.com" target="_blank"><img src="/assets/sponsors/deezer_logo.png" alt="Avatar" class="gold-wrapper"></a>
+        </td>
+        <!-- <td class="teamsection">
+            <a href="https://utopiamusic.com/" target="_blank"><img src="/assets/sponsors/Utopia-Logo.png" alt="Avatar" class="gold-wrapper"></a>
+        </td> -->
+    </tr>
+    <tr>
+        <td class="teamsection">
+            <a href="https://utopiamusic.com/" target="_blank"><img src="/assets/sponsors/Utopia-Logo.png" alt="Avatar" class="gold-wrapper"></a>
         </td>
     </tr>
     <tr>
