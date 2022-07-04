@@ -3,7 +3,11 @@ layout: page
 title: International Society for Music Information Retrieval
 ---
 
-# 1. An Introduction to Symbolic Music Processing in Python with Partitura
+All the tutorials at ISMIR 2022 will take place on 04 December, 2022 in a hybrid format. There will be three parallel tutorials each in the morning and the afternoon sessions, with a total of six tutorials. 
+
+# Morning Session
+
+## T1(M): An Introduction to Symbolic Music Processing in Python with Partitura
 
 Symbolic music formats (e.g., MIDI, MusicXML/MEI) can provide a variety of high-level musical information like note pitch and duration, key/time signature, beat/downbeat position, etc. Such data can be used as both input/training data and as ground truth for MIR systems.
 
@@ -28,7 +32,8 @@ a M.Sc. degree in Electrical Engineering and Audio Engineering from the Graz Uni
 
 [**Silvan David Peter**](https://www.jku.at/en/institute-of-computational-perception/about-us/people/silvan-david-peter/) is a University Assistant at the Institute of Computational Perception, Johannes Kepler University, Linz, Austria. His research interests are the evaluation of and interaction with computational models of musical skills. He holds an M.Sc. degree in Mathematics from the Humboldt University of Berlin.
 
-# 2. Computational Methods For Supporting Corpus-Based Research On Indian Art Music
+## T2(M): Computational Methods For Supporting Corpus-Based Research On Indian Art Music
+
 Culture-aware approaches to computational musicology and music information research (MIR) have been shown to be effective for a musically relevant analysis of a music culture. Projects such as CompMusic (2011-2017), MusicalBridges (2018-2022) or the initiatives funded by SPARC (2019-2022) have demonstrated the importance of considering sociocultural specifics of a music tradition to effectively define research problems, collect data and propose methods for analysis. These projects  have made particularly notable contributions to the analysis of Indian Art Music (IAM), leading to a collective body of bespoke computational methods for analyzing these traditions.
 
 
@@ -50,7 +55,8 @@ This tutorial is the result of an ongoing collaborative effort involving many co
 
 **Brindha Manickavasakan** is a Carnatic Music vocalist, and is among the foremost, popular young performing Carnatic musicians in India. She has been performing for the past 21 years, and is currently learning from Vidushi Suguna Varadachari. She is an ‘A’ graded vocal artist of All India Radio. Brindha holds a Master’s degree in Biostatistics from Georgetown University, USA, a Master’s degree in Music and is a PhD candidate in Music from Madras University with a thesis on the contribution of Tañjāvūr K Poṉṉayyā Piḷḷai. She is a constant feature in all the major sabhas in Chennai, and performs regularly across India and abroad.
 
-# 3. Designing Controllable Synthesis System for Musical Signals
+## T3(M): Designing Controllable Synthesis System for Musical Signals
+
 Advances in deep learning and signal processing research have made it possible to generate signals that at times can be difficult to distinguish from real samples.
 Despite the realistic output the models can produce, however, the controllability of the models is still constrained because of the black-box-like nature of many models.
  
@@ -65,7 +71,10 @@ The target audience for this tutorial is researchers who are interested in deep 
 
 **Yusong Wu** is a final-year research master at the University of Montreal and Mila in Montreal, Canada. He is co-advised by Prof. Aaron Courville and Prof. Cheng-Zhi Anna Huang and will become a Ph.D. student under the same advisors shortly. His research focuses on making better generative models for music creativity. His recent work ``MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling", collaborating with Google Magenta, was accepted by ICLR 2022 for oral presentation.
 
-# 4. Few-Shot and Zero-Shot Learning for Musical Audio
+# Afternoon Session
+
+## T4(A): Few-Shot and Zero-Shot Learning for Musical Audio
+
 While deep neural networks achieved promising results in many MIR tasks, they typically require a large amount of labeled data for training. Rare, fine-grained, or newly emerged classes (e.g. a rare musical instrument, a new music genre) where large-scale data collection is hard or simply impossible are often considered out-of-vocabulary and unsupported by MIR systems. To address this, few-shot learning (FSL) and zero-shot learning (ZSL) are learning paradigms that aim to train a model that can learn a new concept based on just a handful of labeled examples (few-shot) or some auxiliary information (zero-shot), mimicking human ability. By doing so, the trained model is no longer limited to a pre-defined and fixed set of classes but ideally can generalize to any class of interest with the cost of little human intervention. In addition, few-shot and zero-shot models naturally incorporate human input without asking for significant effort, making them useful tools when developing MIR systems that can be customized by individual users.  
 
 In this tutorial, we will go over
@@ -77,7 +86,7 @@ We aim for this tutorial to be useful to researchers and practitioners in the IS
 
 **Biographies of Presenters**
 
-**Yu Wang**
+[**Yu Wang**](https://y-wang.weebly.com/)
 Yu is a Ph.D. candidate in Music Technology at the Music and Audio Research Laboratory at New York University, working under Prof. Juan Pablo Bello. Her research interests focus on machine learning and signal processing for music and general audio. Specifically, she is interested in adaptive and interactive machine listening with minimal supervision. She has interned with Adobe Research and Spotify. Before joining MARL in 2017, she was in the Music Recording and Production program at the Institute of Audio Research. She holds two M.S. degrees in Materials Science & Engineering from Massachusetts Institute of Technology (2015) and National Taiwan University (NTU) (2012), and a B.S. in Physics from NTU (2010). Yu is a guitar player and also enjoys sound engineering. Japanese math rock is her current favorite music genre.
 
 **Hugo Flores García**
@@ -86,19 +95,21 @@ Hugo is a Ph.D. student in Computer Science at Northwestern University, working 
 **Jeong Choi**
 Jeong is a machine learning researcher at Naver, where he leads NOW AI team that's working on a multi-modal recommendation system for a video streaming service, Naver NOW. Before joining Naver, he was a researcher at NCSOFT, working on a recommedation system in a music game FUSER. He also interned at Deezer Research. He received a M.S. in Culture Technology at Korea Advance Institute of Science and Technology, under the supervision of Prof. Juhan Nam. His research interest is on representational learning of various signals that can further contribute to diverse music recommendation strategies. Previously, he pursued a long music career as a composer and a bassist. His passion for music research originates from the experience. He also received a M.S. and a B.E. in Digital Media at Ajou University, and majored in French at Daewon Foreign Language High School. 
 
-# 5. Deep learning for automatic mixing
+## T5(A): Deep learning for automatic mixing
+
 Mixing is a central task within audio post-production where expert knowledge is required to deliver professional quality content, encompassing both technical and creative considerations. Recently, deep learning approaches have been introduced that aim to address this challenge by generating a cohesive mixture of a set of recordings as would an audio engineer. These approaches leverage large-scale datasets and therefore have the potential to outperform traditional approaches based on expert systems, but bring their own unique set of challenges. In this tutorial, we will begin by providing an introduction to the mixing process from the perspective of an audio engineer, along with a discussion of the tools used in the process from a signal processing perspective. We will then discuss a series of recent deep learning approaches and relevant datasets, providing code to build, train, and evaluate these systems. Future directions and challenges will be discussed, including new deep learning systems, evaluation methods, and approaches to address dataset availability. Our goal is to provide a starting point for researchers working in MIR who have little to no experience in audio engineering so they can easily begin addressing problems in this domain. In addition, our tutorial may be of interest to researchers outside of MIR, but with a background in audio engineering or signal processing, who are interested in gaining exposure to current approaches in deep learning. 
 
 
-**Christian J. Steinmetz** is PhD researcher working with Prof. Joshua D. Reiss within the Centre for Digital Music at Queen Mary University of London. He researches applications of machine learning in audio with a focus on differentiable signal processing. Currently, his research revolves around high fidelity audio and music production, which involves enhancing audio recordings, intelligent systems for audio engineering, as well as applications that augment and extend creativity. He has worked as a Research Scientist Intern at Adobe, Facebook Reality Labs, and Dolby Labs. Christian holds a BS in Electrical Engineering and BA in Audio Technology from Clemson University, as well as an MSc in Sound and Music Computing from the Music Technology Group at Universitat Pompeu Fabra.
+[**Christian J. Steinmetz**](https://www.christiansteinmetz.com/) is PhD researcher working with Prof. Joshua D. Reiss within the Centre for Digital Music at Queen Mary University of London. He researches applications of machine learning in audio with a focus on differentiable signal processing. Currently, his research revolves around high fidelity audio and music production, which involves enhancing audio recordings, intelligent systems for audio engineering, as well as applications that augment and extend creativity. He has worked as a Research Scientist Intern at Adobe, Facebook Reality Labs, and Dolby Labs. Christian holds a BS in Electrical Engineering and BA in Audio Technology from Clemson University, as well as an MSc in Sound and Music Computing from the Music Technology Group at Universitat Pompeu Fabra.
 
-**Soumya Sai Vanka** is a first year PhD researcher at the Centre for Digital Music, Queen Mary University of London. She is part of the AI and Music, Centre for Doctoral Training. Her research focus is mainly on exploring the idea of Music Mix similarity, Music Mix Style transfer, and Intelligent Multitrack Mixing using Self-Supervised, Semi-Supervised, and Unsupervised Learning architectures. She also writes music, produces and plays saxophone. Her educational background is a mixture of Masters in Physics and Courses in Music Production. 
+[**Soumya Sai Vanka**](https://www.saisoumya.com/) is a first year PhD researcher at the Centre for Digital Music, Queen Mary University of London. She is part of the AI and Music, Centre for Doctoral Training. Her research focus is mainly on exploring the idea of Music Mix similarity, Music Mix Style transfer, and Intelligent Multitrack Mixing using Self-Supervised, Semi-Supervised, and Unsupervised Learning architectures. She also writes music, produces and plays saxophone. Her educational background is a mixture of Masters in Physics and Courses in Music Production. 
 
 **Gary Bromham** is a part-time PhD researcher at Queen Mary University of London, researching the role that traditional studio paradigms and retro aesthetics play in intelligent music production systems (2016 -). He has several publications in this field and has contributed a chapter to the recent Routledge publication, ‘Perspectives on Music Production: Mixing Music’ (2017). He was also a research assistant on the EPSRC funded project called FAST (Fusing Audio and Semantic Technologies) where he is employed as an industry advisor (2017 - 2020). In addition to his research interests, Gary is a practising music producer, songwriter and audio engineer, with over 30 years’ experience (1989 - 2020). He has worked with artists as diverse as Bjork, Wham, Blur and U2, during a period that has witnessed several technological changes. Gary is well versed in most popular music making software and has extensive knowledge of using analog hardware, acting as a product designer and specialist for the renowned mixing desk company, Solid State Logic. He is also a frequent guest lecturer and external advisor at several universities in the UK, Norway and Sweden; speaking on songwriting, music production aesthetics and audio engineering and bringing some of his extensive knowledge and experience to both Undergraduate and Master’s degree level programs.
 
-**Marco A. Martínez Ramírez** is music technology researcher at Sony in the Tokyo R&D center, where he is part of the Creative AI Lab. His research interests lie at the intersection of machine learning, digital signal processing, and intelligent music production, with a primary focus on deep learning architectures for music processing tasks. Previously, he was an audio research intern at Adobe and received his PhD from the Centre for Digital Music at Queen Mary University of London. He has a MSc in digital signal processing from the University of Manchester, UK, and a BSc in electronic engineering from La Universidad de Los Andes, Colombia. Marco also has a background in music production and mixing engineering.
+[**Marco A. Martínez Ramírez**](https://m-marco.com/) is music technology researcher at Sony in the Tokyo R&D center, where he is part of the Creative AI Lab. His research interests lie at the intersection of machine learning, digital signal processing, and intelligent music production, with a primary focus on deep learning architectures for music processing tasks. Previously, he was an audio research intern at Adobe and received his PhD from the Centre for Digital Music at Queen Mary University of London. He has a MSc in digital signal processing from the University of Manchester, UK, and a BSc in electronic engineering from La Universidad de Los Andes, Colombia. Marco also has a background in music production and mixing engineering.
 
-# 6. Creating MIR applications with values
+## T6(A): Trustworthy MIR: Creating MIR applications with values
+
 The MIR community shows an increasing interest in understanding how current
 technologies affect the everyday experience of people all over the world, e.g., how we
 listen to music, compose songs, or learn to play an instrument. As it was introduced in
@@ -173,5 +184,4 @@ the assessment of the impact of music recommender systems on cultural diversity.
 has collaborated in several initiatives focused on the analysis of ethical dimensions of
 algorithmic systems (Mechanism Design for Social Good (MD4SG); divinAI project,
 HUMAINT / UPF). He has also been part of national and international research
-projects aiming at making music more accessible through the use of technology
-(Musical AI, TROMPA).
+projects aiming at making music more accessible through the use of technology (Musical AI, TROMPA).

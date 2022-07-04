@@ -37,6 +37,11 @@ title: International Society for Music Information Retrieval
         </td>
     </tr>
     <tr>
+        <td class="teamsection sponsorsection">
+            <a href="https://www.siriusxm.com/pandora" target="_blank"><img src="/assets/sponsors/SiriusPandora_logo.png" alt="Avatar" class="gold-wrapper"></a>
+        </td>
+    </tr>
+    <tr>
        <td>&nbsp;</td>
     </tr>
     <tr>
@@ -47,6 +52,9 @@ title: International Society for Music Information Retrieval
     <tr>
         <td class="teamsection sponsorsection">
             <a href="https://www.steinberg.net/" target="_blank"><img src="/assets/sponsors/Steinberg-logo.png" alt="Avatar" class="silver-wrapper"></a>
+        </td>
+        <td class="teamsection sponsorsection">
+            <a href="https://www.izotope.com/" target="_blank"><img src="/assets/sponsors/Izotope_Logo.png" alt="Avatar" class="silver-wrapper"></a>
         </td>
     </tr>
     <tr>
