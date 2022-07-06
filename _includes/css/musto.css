@@ -166,7 +166,7 @@ button{
 }
 
 .keynoteavatar{
-    width: 10em;
+    width: 12em;
     height: auto;
     margin-top: 1em;
     margin-bottom: 1em;
@@ -177,12 +177,19 @@ button{
     font-size: 1em;
 }
 
+.keynoteavatarname{
+    font-size: 1.2em;
+}
+
 @media screen and (max-width: 768px) {
     .avatar{
         width: 3em;
     }
     .avatarname{
         font-size: 0.5em;
+    }
+    .keynoteavatarname{
+        font-size: 0.8em;
     }
 }
 
@@ -529,4 +536,9 @@ a:first-child:hover{
     .downloadpdf{
         display: block;
     }
+}
+
+.pricetable{
+    width: 90%;
+    text-align: center;
 }
