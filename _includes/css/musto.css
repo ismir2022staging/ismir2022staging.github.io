@@ -544,6 +544,7 @@ a:first-child:hover{
     /* border: 0.5vw solid rgb(216, 54, 22); */
 }
 
-.pricetable td{
-    border: 0.1vw solid rgb(216, 54, 22);
+.pricetable tr:nth-child(odd){
+    background-color: rgba(255, 255, 255, 0.9);
+    /* border: 0.1vw solid rgb(216, 54, 22); */
 }
