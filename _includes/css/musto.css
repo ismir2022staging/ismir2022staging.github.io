@@ -541,4 +541,9 @@ a:first-child:hover{
 .pricetable{
     width: 90%;
     text-align: center;
+    /* border: 0.5vw solid rgb(216, 54, 22); */
+}
+
+.pricetable td{
+    border: 0.2vw solid rgb(216, 54, 22);
 }
