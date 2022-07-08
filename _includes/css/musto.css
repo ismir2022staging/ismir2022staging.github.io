@@ -545,6 +545,7 @@ a:first-child:hover{
 }
 
 .pricetable tr:first-child{
+    font-weight: bold;
     background-color: rgba(0, 0, 0, 0.2);
 }
 
