@@ -544,19 +544,10 @@ a:first-child:hover{
     /* border: 0.5vw solid rgb(216, 54, 22); */
 }
 
-.pricetable tr:nth-child(odd){
-    background-color: rgba(255, 255, 255, 0.9);
-    /* border: 0.1vw solid rgb(216, 54, 22); */
-}
-
-.pricetableb tr:not(:first-child){
+.pricetable tr:first-child{
     background-color: rgba(0, 0, 0, 0.2);
 }
 
-.pricetablec tr:first-child{
-    background-color: rgba(0, 0, 0, 0.2);
-}
-
-.pricetablec tr:not(:first-child){
-    background-color: rgba(255, 255, 255, 1);
+.pricetable tr:not(:first-child){
+    background-color: rgba(0, 0, 0, 0.1);
 }
