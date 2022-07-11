@@ -3,7 +3,7 @@ layout: page
 title: International Society for Music Information Retrieval
 ---
 <h1>Sponsors</h1>
-<table class="customtable">
+<table class="customtable sponsorblock">
     <tr>
         <td class="teamsection sponsorsection" colspan="4">
             <h2 class="sponsorhead" style="background-color:#8f8a8a;">Platinum</h2>

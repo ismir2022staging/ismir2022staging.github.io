@@ -205,6 +205,10 @@ button{
     display: none;
 }
 
+.sponsorblock{
+    display: block;
+}
+
 @media screen and (max-width: 768px) {
     .mobilecustomtable{
         display: block;
@@ -212,6 +216,10 @@ button{
 
     .customtable{
         display: none;
+    }
+
+    .sponsorblock{
+        display: block;
     }
 
     .avatarbox{
@@ -394,7 +402,7 @@ a:first-child:hover{
 }
 
 .timelinetable{
-    width: 50%;
+    width: 48%;
 }
 
 @media screen and (max-width: 600px) {
