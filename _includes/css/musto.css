@@ -205,10 +205,6 @@ button{
     display: none;
 }
 
-.sponsorblock{
-    display: block;
-}
-
 @media screen and (max-width: 768px) {
     .mobilecustomtable{
         display: block;
@@ -219,7 +215,9 @@ button{
     }
 
     .sponsorblock{
-        display: block;
+        width: 100%;
+        text-align: center;
+        display: inline;
     }
 
     .avatarbox{
