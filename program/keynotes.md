@@ -24,7 +24,7 @@ title: International Society for Music Information Retrieval
             <img src="..\assets\speakers\richa_singh.jpg" alt="Avatar" class="keynoteavatar">
         </td>
         <td class="volunteerinfo">
-            <p class = "avatarname keynoteavatarname"><a href = "http://home.iitj.ac.in/~richa/" target = 'blank_' style="text-decoration: none;">Prof. Richa Singh</a></p>
+            <p class = "avatarname keynoteavatarname"><a href = "http://home.iitj.ac.in/~richa/" target = 'blank_' style="text-decoration: none;">Richa Singh</a></p>
             <p class = "avatarname"><i>Professor and Head, <br>Dept. of Computer Science and Engineering <br>Indian Institute of Technology Jodhpur</i></p>
             <p>A short biography of the speaker with the title and abstract of the keynote talk will be added soon.
             <br>
@@ -54,12 +54,12 @@ title: International Society for Music Information Retrieval
     <tr>
         <td class="avatarbox">
             <img src="..\assets\speakers\richa_singh.jpg" alt="Avatar" class="keynoteavatar">
-            <p class = "avatarname keynoteavatarname">Prof. Richa Singh<br><i>Professor and Head, <br>Dept. of Computer Science and Engineering <br>Indian Institute of Technology Jodhpur</i></p>    
+            <p class = "avatarname keynoteavatarname"><a href = "http://home.iitj.ac.in/~richa/" target = 'blank_' style="text-decoration: none;">Richa Singh</a><br><i>Professor and Head, <br>Dept. of Computer Science and Engineering <br>Indian Institute of Technology Jodhpur</i></p>    
         </td>
     </tr>
     <tr>
         <td class="volunteerinfo">
-            <p>A short biography of the speaker with the title and abstract of the keynote talk will be added soon.<br><a href = "http://home.iitj.ac.in/~richa/" target = 'blank_' style="text-decoration: none;">Webpage</a>
+            <p>A short biography of the speaker with the title and abstract of the keynote talk will be added soon.
             <br>
             The title and a short abstract of the keynote will be added soon.
             </p>
