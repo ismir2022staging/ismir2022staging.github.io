@@ -444,8 +444,8 @@ a:first-child:hover{
 }
 
 .institutetable tr, td{
-    padding-left: 1vw;
-    padding-right: 1vw;
+    padding-left: 2vw;
+    padding-right: 2vw;
 }
 
 @media screen and (max-width: 600px) {
@@ -500,6 +500,11 @@ a:first-child:hover{
 
 .supporter-wrapper {
     width: 5em;
+    height: auto;
+}
+
+.footer-wrapper {
+    width: 4em;
     height: auto;
 }
 
