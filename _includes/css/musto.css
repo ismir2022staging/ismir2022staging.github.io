@@ -427,14 +427,14 @@ a:first-child:hover{
     display: none;
 }
 
-.fulltwitter{
+/* .fulltwitter{
     width: 50%;
-}
+} */
 
 .twitter-timeline{
     display: inline-block;
-    max-width: 30vw !important;
-    max-height: 200vh !important;
+    max-width: 25vw !important;
+    max-height: 100vh !important;
 }
 
 .institutetable{

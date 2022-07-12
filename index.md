@@ -88,7 +88,7 @@ title: International Society for Music Information Retrieval
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Papers</span></h4></td>
         <td> </td>
-        <td class="fulltwitter" rowspan = "80"><a class="twitter-timeline" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
+        <td class="fulltwitter" rowspan = "23"><a class="twitter-timeline" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
     </tr>
     <tr class="timelineparts">
         <td><span style="text-decoration:line-through">Submission site opening</span></td>
