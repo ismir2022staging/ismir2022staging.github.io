@@ -21,6 +21,7 @@ a {
 
 footer {
     font-family: 'Lato', sans-serif;
+    clear: both;
 }
 
 .fa-brands {
