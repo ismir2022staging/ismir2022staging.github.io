@@ -433,6 +433,8 @@ a:first-child:hover{
 
 .twitter-timeline{
     display: inline-block;
+    max-width: 30vw !important;
+    max-height: 200vh !important;
 }
 
 .institutetable{
