@@ -398,7 +398,7 @@ a:first-child:hover{
 }
 
 .timelinetable{
-    width: 50%;
+    width: 100%;
     float: left;
 }
 
@@ -428,7 +428,11 @@ a:first-child:hover{
 }
 
 .fulltwitter{
-    float: left;
+    width: 50%;
+}
+
+.twitter-timeline{
+    display: inline-block;
 }
 
 @media screen and (max-width: 600px) {

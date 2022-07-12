@@ -88,6 +88,7 @@ title: International Society for Music Information Retrieval
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Papers</span></h4></td>
         <td> </td>
+        <td class="fulltwitter" rowspan = "80"><a class="twitter-timeline" data-width="8000" data-height="1000" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
     </tr>
     <tr class="timelineparts">
         <td><span style="text-decoration:line-through">Submission site opening</span></td>
@@ -178,9 +179,9 @@ title: International Society for Music Information Retrieval
         <td><span style="text-decoration:line-through">April 15, 2022</span></td>
     </tr>
 </table>
-<div class="fulltwitter"><a class="twitter-timeline" data-width="400" data-height="940" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<!-- <div class="fulltwitter"><a class="twitter-timeline" data-width="50%" data-height="100%" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div> -->
 
-<div class="mobiletwitter"><a class="twitter-timeline" data-width="250" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+<div class="mobiletwitter"><a class="twitter-timeline" data-width="250" data-height="800" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 </div>
 <br>
 <br>
