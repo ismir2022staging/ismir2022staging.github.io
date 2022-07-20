@@ -443,15 +443,18 @@ a:first-child:hover{
     align-items: center;
     align-content: center;
     text-align: center;
+    width: 80%;
+    padding-bottom: 2vh;
 }
 
 .institutetable tr, td{
-    padding-left: 2vw;
-    padding-right: 2vw;
-    width: 20%;
+    /* padding-left: 1vw;
+    padding-right: 1vw; */
+    /* width: 10%; */
     align-items: center;
     align-content: center;
     text-align: center;
+    /* border: 2px solid red; */
 }
 
 @media screen and (max-width: 600px) {
@@ -510,7 +513,12 @@ a:first-child:hover{
 }
 
 .footer-wrapper {
-    width: 6em;
+    width: 8em;
+    height: auto;
+}
+
+.small-footer-wrapper {
+    width: 14em;
     height: auto;
 }
 
