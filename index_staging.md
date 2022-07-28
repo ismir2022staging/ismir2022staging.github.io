@@ -182,7 +182,7 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
     <section style="background-color: rgb(255, 255, 255); height:60vh; overflow:scroll;">
     <table class="cardtable">
     <tr>
-    {% for post in site.posts limit:3 %}
+    {% for post in site.posts limit:2 %}
         <td class="cardcell"  onclick="location.href='{{post.url | relative_url}}'">
             <div class="card">
                 <img src="{{ post.featured-img }}" alt="Card Avatar" class = "cardimage">
@@ -195,10 +195,11 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         </td>
     {% endfor %}
     </tr>
-    {% for post in site.posts offset:3 %}
+    <tr>
+    {% for post in site.posts offset:2 %}
         <td class="cardcell"  onclick="location.href='{{post.url | relative_url}}'">
         <div class="card">
-            <img src="{{post.featured_img}}" alt="Card Avatar" class = "cardimage">
+            <img src="{{post.featured-img}}" alt="Card Avatar" class = "cardimage">
             <div class="cardcontainer">
                 <p><b>{{post.title}}</b></p>
                 <p>{{ post.date | date: "%b %d, %Y" }}</p>
@@ -207,7 +208,6 @@ ISMIR 2022 will comprise a technical program of submitted research papers, keyno
         </div>
         </td>
     {% endfor %}
-    <tr>
     </tr>
     </table>
         <!-- <div class="home-post-list" itemscope="" itemtype="http://schema.org/Blog">
