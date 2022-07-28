@@ -4,42 +4,43 @@ title: International Society for Music Information Retrieval
 ---
 # Welcome to ISMIR 2022!
 
-<br>
-<p>The ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. <em>The 23rd International Society for Music Information Retrieval Conference</em> will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India.</p>
+<p>  
+	
+The 23rd International Society for Music Information Retrieval Conference (ISMIR 2022) will take place in a hybrid format from Dec 4-8, 2022 and will be hosted in Bengaluru, India. The International Society for Music Information Retrieval (ISMIR) represents the largest body of scholars, researchers and practitioners in the field of music information retrieval (MIR), an interdisciplinary research area concerned with processing, analysing, organising and accessing music information. The scope of ISMIR extends across the fields of computer science, musicology, cognitive science, library & information science and electrical engineering. The annual ISMIR conference is the world's leading research forum on processing, searching, organising and accessing music-related data. 
+</p>
+<p>
+ISMIR 2022 will comprise a technical program of submitted research papers, keynote and plenary talks by eminent speakers in MIR and related areas such as musicology and music cognition. A number of special sessions are planned on themes that are topical to both academia and industry. Further, satellite events such as workshops aimed to facilitate and increase interdisciplinary dialogue between Music Information Science and Humanities are planned for the days around the conference. The varied themes of these workshops include Music and Health, Music Culture and Identity, Music and Movement, Music Perception, and Neuromusicology. 
+</p>
 <br>
 
 <h3>Highlights</h3>
 <table class="scrolldown" rules=none>
 		<tbody>
-            <tr>
-                <td><li data-stringify-indent="0" data-stringify-border="0">Check out the paper review form of ISMIR <a href="reviewform">here</a>.</li></td>
-            </tr>
-			<tr>
-				<td><li data-stringify-indent="0" data-stringify-border="0"><a href="https://ismir2021.ismir.net/blog/preparing/">Tips</a> to prepare your ISMIR submission.</li></td>
-			</tr>
-			<tr>
-				<td><li data-stringify-indent="0" data-stringify-border="0">Insights on ISMIR Reviewing experience - <a href="https://ismir2021.ismir.net/blog/insights/">Part 1</a>, <a href="https://ismir2021.ismir.net/blog/insights2/">Part 2</a>.</li></td>
-			</tr>
-			<!-- <tr>
-				<td><li><a href="https://cmt3.research.microsoft.com/ISMIR2022/"><span style="text-decoration:line-through">ISMIR 2022 paper submission site</span></a><span style="text-decoration:line-through"> is now open! For more info, check out the </span><a href="https://ismir2022.ismir.net/calls/cfp"><span style="text-decoration:line-through">Call for Papers</span></a>.</li></td>
-			</tr> -->
+		<tr>
+			<td><li data-stringify-indent="0" data-stringify-border="0">Information on <a href="https://ismir2022.ismir.net/program/keynotes">Keynotes</a>, <a href="https://ismir2022.ismir.net/program/tutorials">Tutorials</a> and <a href="https://ismir2022.ismir.net/program/satellites">Satellite Events</a> at ISMIR 2022 is now available</li></td>
+		</tr>
+		<tr>
+			<td><li data-stringify-indent="0" data-stringify-border="0">Registration portal for ISMIR 2022 is now open - <a href="https://ismir2022.ismir.net/attend/registration">Register Now!</a></li></td>
+		</tr>
+		<tr>
+			<td><li data-stringify-indent="0" data-stringify-border="0">Several author and WiMIR grants for ISMIR 2022 are available - <a href="https://ismir2022.ismir.net/attend/support">Apply for grants</a></li></td>
+		</tr>
 		</tbody>
 </table>
 
 
 <h3>Important Dates (AoE)</h3>
-
-<div class = "indexmid">
+<div class="fulltwitter"><a class="twitter-timeline" data-width="400" data-height="550" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 
 <table class="timelinetable" rules=none>
-    <!--
+    
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Registration</span></h4></td>
         <td> </td>
     </tr>
     <tr class="timelineparts">
-        <td>Registration portal opens</td>
-        <td> July 14, 2022 </td>
+	<td><span style="text-decoration:line-through">Registration portal opens</span></td>
+        <td><span style="text-decoration:line-through">July 14, 2022</span></td>
     </tr>
     <tr class="timelineparts">
         <td>Author registration deadline</td>
@@ -84,11 +85,10 @@ title: International Society for Music Information Retrieval
     <tr class="timelineparts">
         <td> Grant notifications for Music Author grants and WiMIR grants</td>
         <td> Aug 19, 2022 </td>
-    </tr> -->
+    </tr>
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Papers</span></h4></td>
         <td> </td>
-        <td class="fulltwitter" rowspan = "23"><a class="twitter-timeline" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></td>
     </tr>
     <tr class="timelineparts">
         <td><span style="text-decoration:line-through">Submission site opening</span></td>
@@ -103,12 +103,12 @@ title: International Society for Music Information Retrieval
         <td> <span style="text-decoration:line-through">May 20, 2022</span></td>
     </tr>
     <tr class="timelineparts">
-        <td>Notification of acceptance</td>
-        <td> July 14, 2022 </td>
+	<td><span style="text-decoration:line-through">Notification of acceptance</span></td>
+	<td><span style="text-decoration:line-through">July 14, 2022</span></td>
     </tr>
     <tr class="timelineparts">
         <td>Camera ready deadline</td>
-        <td> August 9, 2022 </td>
+        <td><span style="text-decoration:line-through">August 9</span> August 31, 2022</td>
     </tr>
     <tr class="timelineparts">
         <td><h4><span style="color:#DB442A">Music Program</span></h4></td>
@@ -119,8 +119,8 @@ title: International Society for Music Information Retrieval
         <td><span style="text-decoration:line-through">July 4, 2022</span></td>
     </tr>
     <tr class="timelineparts">
-        <td>Submission site opening</td>
-        <td> July 10, 2022 </td>
+	<td><span style="text-decoration:line-through">Submission site opening</span></td>
+        <td><span style="text-decoration:line-through">July 10, 2022</span></td>
     </tr>
     <tr class="timelineparts">
         <td>Music submission deadline</td>
@@ -179,9 +179,7 @@ title: International Society for Music Information Retrieval
         <td><span style="text-decoration:line-through">April 15, 2022</span></td>
     </tr>
 </table>
-<!-- <div class="fulltwitter"><a class="twitter-timeline" data-width="50%" data-height="100%" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div> -->
 
-<div class="mobiletwitter"><a class="twitter-timeline" data-width="250" data-height="800" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-</div>
+<div class="mobiletwitter"><a class="twitter-timeline" data-width="250" data-height="400" href="https://twitter.com/ISMIRConf?ref_src=twsrc%5Etfw">Tweets by ISMIRConf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
 <br>
 <br>
